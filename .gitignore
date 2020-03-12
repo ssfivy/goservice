@@ -11,5 +11,8 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# I am experimenting with keys so ignore all pem files
+*.pem
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
